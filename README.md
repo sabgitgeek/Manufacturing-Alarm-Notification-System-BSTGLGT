@@ -21,3 +21,7 @@ monitoring application.
 - SQL Server
 - Chart.js
 - SMTP
+
+# Specification
+
+https://docs.google.com/spreadsheets/d/1Xhcj1768f0qlsOKawt6pFlDoNMWcWhKo/edit?gid=279324792#gid=279324792
